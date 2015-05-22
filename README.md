@@ -1,4 +1,5 @@
-# This is the code used for the guide located on https://software.intel.com/en-us/articles/using-intel-realsense-technology-in-combination-with-the-intel-edison-development-platform)
+# Code used for guide on connecting Intel RealSense to Intel Edison 
+https://software.intel.com/en-us/articles/using-intel-realsense-technology-in-combination-with-the-intel-edison-development-platform)
 
 Copyright [2015] [Peter Ma]
 
