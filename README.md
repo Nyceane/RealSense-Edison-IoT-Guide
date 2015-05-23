@@ -2,7 +2,7 @@
 Following code is used for the guide on
 https://software.intel.com/en-us/articles/using-intel-realsense-technology-in-combination-with-the-intel-edison-development-platform
 
-Copyright [2015] [Peter Ma]
+Copyright 2015 Peter Ma
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
