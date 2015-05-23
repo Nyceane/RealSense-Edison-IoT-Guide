@@ -1,5 +1,6 @@
-# Code used for guide on connecting Intel RealSense to Intel Edison 
-https://software.intel.com/en-us/articles/using-intel-realsense-technology-in-combination-with-the-intel-edison-development-platform)
+# Connecting Intel RealSense to Intel Edison 
+Following code is used for the guide on
+https://software.intel.com/en-us/articles/using-intel-realsense-technology-in-combination-with-the-intel-edison-development-platform
 
 Copyright [2015] [Peter Ma]
 
